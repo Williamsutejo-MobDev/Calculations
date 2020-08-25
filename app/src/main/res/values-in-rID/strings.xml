@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">W03-Calculations</string>
+    <string name="equals">Hasil</string>
+    <string name="plus">Tambah</string>
+    <string name="number1">Nomor1</string>
+    <string name="number2">Nomor2</string>
+</resources>

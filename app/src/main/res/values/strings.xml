@@ -1,4 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">W03-Calculations</string>
     <string name="equals">equals</string>
+    <string name="plus">plus</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
 </resources>
